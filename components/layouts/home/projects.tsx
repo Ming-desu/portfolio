@@ -59,7 +59,7 @@ export function ProjectsSection() {
 
                     {/* Mobile Link Overlay */}
                     <div className="absolute top-6 right-6 lg:hidden">
-                      <Link href="/projects">
+                      <Link href={project.link} target="_blank">
                         <ExternalLink className="w-4 h-4 text-zinc-900 dark:text-white" />
                       </Link>
                     </div>
@@ -107,7 +107,8 @@ export function ProjectsSection() {
 
                       <div className="flex items-center gap-4">
                         <Link
-                          href="/projects"
+                          href={project.link}
+                          target="_blank"
                           className="inline-flex items-center gap-2 text-sm font-bold text-zinc-900 hover:gap-3 transition-all dark:text-white"
                         >
                           View Project

@@ -1,71 +1,62 @@
 [
   {
     "id": "p1",
-    "title": "E-Commerce Platform",
+    "title": "TaraGo",
     "category": "Web",
-    "date": "Dec 2024",
-    "description": "A full-featured e-commerce platform with real-time inventory management.",
-    "longDescription": "This project involved building a highly scalable e-commerce infrastructure capable of handling thousands of concurrent users. The focus was on performance, accessibility, and a seamless checkout experience.",
-    "features": [
-      "Real-time inventory sync across multiple warehouses",
-      "Custom checkout flow with multi-currency support",
-      "Advanced product filtering and searching",
-      "Dynamic tax and shipping calculations"
-    ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2426&auto=format&fit=crop",
+    "date": "Apr 2025",
+    "description": "TaraGo helps you book staycations and event venues in the Philippines.",
+    "longDescription": "",
+    "features": [],
+    "image": "https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/screenshots/tarago.png",
     "tags": [
-      "Next.js",
+      "MySQL",
       "TypeScript",
-      "Stripe",
-      "PostgreSQL"
+      "Next.js",
+      "AdonisJS",
+      "Shadcn",
+      "Kysely",
+      "Redis",
+      "Socket.IO"
     ],
-    "link": "#",
+    "link": "https://tarago.ph",
     "github": "#"
   },
   {
     "id": "p2",
-    "title": "Fitness Tracker App",
-    "category": "Mobile",
-    "date": "Oct 2024",
-    "description": "Mobile-first application designed to help users track workouts and monitor progress.",
-    "longDescription": "A fitness-focused application that leverages local database storage and cloud sync to provide a consistent tracking experience. It features high-quality charting to visualize user progress over time.",
-    "features": [
-      "Workout log with custom exercise creation",
-      "Interactive progress charts using D3.js",
-      "Offline-first data architecture",
-      "Cloud sync across multiple devices"
-    ],
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2670&auto=format&fit=crop",
+    "title": "Luxein Revamp",
+    "category": "Web",
+    "date": "Nov 2024",
+    "description": "Luxein is a luxury brand e-commerce platform where customer find items at the lowest price.",
+    "longDescription": "",
+    "features": [],
+    "image": "https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/screenshots/luxein.png",
     "tags": [
-      "React Native",
+      "Next.js",
       "Firebase",
-      "D3.js",
-      "Zustand"
+      "Redux Toolkit",
+      "JavaScript",
+      "Tailwind CSS"
     ],
-    "link": "#",
+    "link": "https://luxein.com",
     "github": "#"
   },
   {
     "id": "p3",
-    "title": "AI Workflow Dashboard",
-    "category": "Design",
-    "date": "Aug 2024",
-    "description": "A centralized hub for managing automated AI tasks and complex resource interfaces.",
-    "longDescription": "Designed and developed a sophisticated dashboard for managing distributed AI workloads. The challenge was to make complex system logs and status indicators easy to digest for non-technical stakeholders.",
-    "features": [
-      "Visual task orchestration pipeline",
-      "Real-time status monitoring via WebSockets",
-      "Configurable alert system",
-      "Multi-tenant resource management"
-    ],
-    "image": "https://images.unsplash.com/photo-1551288049-bbbda536339a?q=80&w=2670&auto=format&fit=crop",
+    "title": "PawnHero",
+    "category": "Web",
+    "date": "Jun 2024",
+    "description": "PawnHero is a pawning platform where customers can pawn their items online.",
+    "longDescription": "",
+    "features": [],
+    "image": "https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/screenshots/pawnhero.png",
     "tags": [
-      "React",
-      "Node.js",
-      "Tailwind",
-      "Python"
+      "Next.js",
+      "Firebase",
+      "Redux Toolkit",
+      "JavaScript",
+      "Tailwind CSS"
     ],
-    "link": "#",
+    "link": "https://pawnhero.ph",
     "github": "#"
   },
   {
