@@ -19,7 +19,13 @@ export function Footer() {
           {/* Brand Column */}
           <div className="flex flex-col items-center md:items-start gap-4 max-w-sm">
             <div className="flex items-center gap-2 group cursor-pointer">
-              <Image src="/logo.png" alt="Ming.dev Logo" width={86} height={48} className="max-h-12 w-auto h-full" />
+              <Image
+                src="https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/logo.png"
+                alt="Ming.dev Logo"
+                width={86}
+                height={48}
+                className="max-h-12 w-auto h-full"
+              />
             </div>
             <p className="text-sm text-zinc-500 max-w-60 leading-relaxed font-medium mt-2 dark:text-zinc-400">
               Building scalable products and high-performance user interfaces with precision.

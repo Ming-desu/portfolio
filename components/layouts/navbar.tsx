@@ -44,7 +44,10 @@ export function Navbar() {
     <header className="sticky top-0 z-50 w-full border-b border-zinc-100 bg-white/80 backdrop-blur-xl dark:border-zinc-800 dark:bg-zinc-950/80">
       <nav className="mx-auto flex h-20 max-w-5xl items-center justify-between px-6">
         <Link href="/" className="group flex items-center gap-2.5 transition-transform active:scale-95">
-          <ReactSVG src="/logo-minimal.svg" className="[&>div>svg]:size-8 dark:fill-white" />
+          <ReactSVG
+            src="https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/logo-minimal.svg"
+            className="[&>div>svg]:size-8 dark:fill-white"
+          />
           <span className="font-black">ming.dev</span>
         </Link>
 
