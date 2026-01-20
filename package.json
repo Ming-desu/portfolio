@@ -10,7 +10,7 @@
     "lint:fix": "biome lint --fix",
     "format": "biome format --write",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d out --dotfiles"
   },
   "dependencies": {
     "@radix-ui/react-scroll-area": "^1.2.10",
