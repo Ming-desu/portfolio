@@ -1,7 +1,9 @@
+"use client";
+
 import { Mail } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 import { FaGithub as Github, FaLinkedin as Linkedin, FaXTwitter as Twitter } from "react-icons/fa6";
+import { ReactSVG } from "react-svg";
 import settings from "@/mock/settings.json";
 
 export function Footer() {
@@ -19,12 +21,9 @@ export function Footer() {
           {/* Brand Column */}
           <div className="flex flex-col items-center md:items-start gap-4 max-w-sm">
             <div className="flex items-center gap-2 group cursor-pointer">
-              <Image
-                src="https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/logo.png"
-                alt="Ming.dev Logo"
-                width={86}
-                height={48}
-                className="max-h-12 w-auto h-full"
+              <ReactSVG
+                src="https://raw.githubusercontent.com/Ming-desu/Ming-desu.github.io/refs/heads/main/public/logo.svg"
+                className="[&>div>svg]:w-21.5 [&>div>svg]:h-12 dark:fill-white"
               />
             </div>
             <p className="text-sm text-zinc-500 max-w-60 leading-relaxed font-medium mt-2 dark:text-zinc-400">

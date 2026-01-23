@@ -7,7 +7,7 @@
     "description": "TaraGo helps you book staycations and event venues in the Philippines.",
     "longDescription": "",
     "features": [],
-    "image": "https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/screenshots/tarago.png",
+    "image": "https://raw.githubusercontent.com/Ming-desu/Ming-desu.github.io/refs/heads/main/public/screenshots/tarago.png",
     "tags": [
       "MySQL",
       "TypeScript",
@@ -29,7 +29,7 @@
     "description": "Luxein is a luxury brand e-commerce platform where customer find items at the lowest price.",
     "longDescription": "",
     "features": [],
-    "image": "https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/screenshots/luxein.png",
+    "image": "https://raw.githubusercontent.com/Ming-desu/Ming-desu.github.io/refs/heads/main/public/screenshots/luxein.png",
     "tags": [
       "Next.js",
       "Firebase",
@@ -48,7 +48,7 @@
     "description": "PawnHero is a pawning platform where customers can pawn their items online.",
     "longDescription": "",
     "features": [],
-    "image": "https://raw.githubusercontent.com/Ming-desu/portfolio/refs/heads/main/public/screenshots/pawnhero.png",
+    "image": "https://raw.githubusercontent.com/Ming-desu/Ming-desu.github.io/refs/heads/main/public/screenshots/pawnhero.png",
     "tags": [
       "Next.js",
       "Firebase",
